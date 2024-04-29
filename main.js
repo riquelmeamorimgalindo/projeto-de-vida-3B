@@ -44,7 +44,7 @@ for(let i=0; i<botoes.length;i++){
         return "PRAZO FINALIZADO";
     }
 
-    
+
     function atualizaCronometro(){
         for (let i=0; i < contadores.length; i++){
             contadores[i].textContent = calculaTempo(tempos[i]);  
@@ -55,4 +55,3 @@ for(let i=0; i<botoes.length;i++){
         setInterval(atualizaCronometro,1000);
     }
     comecaCronometro();
-}
