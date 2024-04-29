@@ -43,6 +43,7 @@ for(let i=0; i<botoes.length;i++){
       else {
         return "PRAZO FINALIZADO";
     }
+}
 
 
     function atualizaCronometro(){
