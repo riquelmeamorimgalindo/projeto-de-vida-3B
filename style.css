@@ -2,14 +2,14 @@
 
 :root{
     --cor-de-fundo:#02153d;
-    --botao-inativo: rgba(20, 20, 115, 0.7);
-    --botao-ativo :#2c1d7f;
+    --botao-inativo: rgba(155, 28, 169, 0.973);
+    --botao-ativo :#5c1372;
     --branco:#ffffff;
-    --cor-letra: #045978;
-    --sublinhado:#3f61db;
+    --cor-letra: #2d0aab;
+    --sublinhado:#8702b4;
 }
 body{
-    background-color:rgb(4, 2, 59);
+    background-color:rgb(0, 0, 9);
     color: var(--branco);
     font-family: 'Chakra Petch', sans-serif; 
 }
