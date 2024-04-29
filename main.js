@@ -54,7 +54,4 @@ for(let i=0; i<botoes.length;i++){
         setInterval(atualizaCronometro,1000);
     }
     comecaCronometro();
-
-
-
 }
